@@ -1,1 +1,8 @@
-streamlit\npandas\njoblib\nnumpy\nmatplotlib\nsklearn\nimblearn\npyngrok\n
+streamlit
+pandas
+joblib
+numpy
+matplotlib
+sklearn
+imblearn
+pyngrok
